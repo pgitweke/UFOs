@@ -22,12 +22,12 @@ The objective of this project was to build a website that provides a more in-dep
 
 In HTML, five list elements were created to enable the user to input particular data such as date, city or shape. Behind the scenes, we created a couple of javascript functions to enable the filters to work efficiently. Finally, bootstrap and css were used to enhance the background and design of the website. Below are snippets of the results step by step.
 
-In this image, no filter was applied. The red rectangle potrays the input box with place holders which have no effect to the filter except show the user how data is input. We have data that is mixed.
+In this image, no filter was applied. The red rectangle potrays the input box with place holders which have no effect to the filter except show the user the format of how data should be input. We have data that is mixed.
 ![Before Filter](Before_filter.png)
 
 When a user inputs a specific filter such as state "ca", all states with "ca" data will populate. They can add another filter such as shape "circle" and the filtered data will be reduced to only "ca" states "circle" shape.
 
-On this image, we can see a filter was added to the city input box highlighted in green. There are five results and all of them are filtered to the city of "el cajon".
+On the image below, we can see a filter was added to the city input box highlighted in green. There are five results and all of them are filtered to the city of "el cajon".
 ![After Filter](After_filter.png)
 
 Finally, the image below is a snippet of the final website.
